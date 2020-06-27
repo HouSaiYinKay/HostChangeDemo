@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultServer</key>
+	<integer>0</integer>
+	<key>localServers</key>
+	<array>
+		<dict>
+			<key>kserveName</key>
+			<string>开发环境</string>
+			<key>domain1</key>
+			<string>domain1value</string>
+			<key>domain2</key>
+			<string>domain2value</string>
+		</dict>
+		<dict>
+			<key>kserveName</key>
+			<string>测试环境</string>
+			<key>domain1</key>
+			<string>domain1value</string>
+			<key>domain2</key>
+			<string>domain2value</string>
+		</dict>
+		<dict>
+			<key>kserveName</key>
+			<string>生产环境</string>
+			<key>domain1</key>
+			<string>domain1value</string>
+			<key>domain2</key>
+			<string>domain2value</string>
+		</dict>
+	</array>
+</dict>
+</plist>
